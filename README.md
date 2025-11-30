@@ -13,6 +13,7 @@ A simple Python library providing **random Islamic Azkar** (remembrances).
 - ⚡ Lightweight
 - 🔧 Customizable
 - telegram:@i11_77
+- dev : BOYKA
 
 ## Installation
 
